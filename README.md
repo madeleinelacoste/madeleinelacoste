@@ -1,76 +1,155 @@
 <div align="center">
 
-# hi, i'm maddie ✶
+# ✦ MADDIE LACOSTE
 
-### data science · marketing · consumer insights · creative projects
+### data × culture × creativity
+
+`analytics` &nbsp; `fashion` &nbsp; `music` &nbsp; `photography` &nbsp; `travel`
+
+<br>
+
+*exploring the intersection of data, consumer behavior & culture*
 
 </div>
 
 ---
 
-### about me
+## ✦ hola, i'm maddie
 
-I'm a Data Science master's student with a background in psychology, marketing, and analytics.
+I'm a **Data Science master's student** with a background in psychology, marketing, and analytics.
 
-I'm especially interested in the intersection of **data, consumer behavior, fashion, music, and culture** — and I love combining analytical work with creative projects.
+I'm interested in the intersection of **data, consumer behavior, fashion, music, and culture** — combining analytical thinking with creative projects.
 
-📍 currently based internationally  
-🎓 M.S. Data Science — Marketing concentration  
-📊 interested in consumer & retail analytics  
-📷 35mm film photography  
-💻 currently working with Python, SQL, R & HTML/CSS  
+Currently working with **Python, SQL, R, machine learning, and web development** while building projects focused on consumer and retail analytics.
+
+<br>
+
+<table>
+<tr>
+<td width="25%" align="center">
+<b>🎓 STUDYING</b><br><br>
+M.S. Data Science<br>
+Marketing concentration
+</td>
+
+<td width="25%" align="center">
+<b>⌁ INTERESTED IN</b><br><br>
+Consumer +<br>
+Retail Analytics
+</td>
+
+<td width="25%" align="center">
+<b>📷 CREATING</b><br><br>
+35mm Photography<br>
++ Web Projects
+</td>
+
+<td width="25%" align="center">
+<b>♫ EXPLORING</b><br><br>
+Music + Live<br>
+Entertainment
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-### selected work
+## ✦ selected work
 
-#### 👜 Luxury Resale Intelligence
-Analysis of 10,000+ luxury resale listings using **Python, SQL & machine learning** to explore pricing, brands, product characteristics and consumer engagement.
+### 01 — Luxury Resale Intelligence
+
+Analyzing **10,000+ luxury resale listings** to understand pricing, product characteristics, brands, and consumer engagement.
 
 `Python` `SQL` `pandas` `scikit-learn` `Oracle`
 
-#### 📷 Photography Portfolio
-A custom photography portfolio built from scratch using **HTML & CSS**, featuring my film photography.
+**→ [explore project](YOUR-LINK-HERE)**
+
+<br>
+
+### 02 — Photography Portfolio
+
+A custom photography portfolio designed and built from scratch featuring film and travel photography.
 
 `HTML` `CSS` `GitHub`
 
-#### 📈 Marketing & Consumer Analytics
-Projects exploring consumer behavior, merchandising, retail strategy and digital marketing.
+**→ [view portfolio](YOUR-LINK-HERE)**
 
-`Excel` `R` `Tableau` `Power BI`
+<br>
 
----
+### 03 — Marketing & Consumer Analytics
 
-### tools
+Projects exploring **consumer behavior, merchandising, retail strategy, luxury resale, and digital marketing.**
 
-**Data & Analytics**
+`R` `Excel` `Tableau` `Power BI`
 
-`Python` · `SQL` · `R` · `Excel` · `Tableau` · `Power BI` · `SPSS`
-
-**Development**
-
-`HTML` · `CSS` · `Git` · `GitHub`
-
-**Creative**
-
-`Photoshop` · `Illustrator` · `Canva` · `CapCut`
+<br>
 
 ---
 
-### currently exploring
+## ✦ toolkit
 
-🪩 music & live entertainment  
-👜 fashion & luxury retail  
-📸 film photography  
-📊 consumer behavior  
-🌎 travel & culture  
+### data + analytics
+
+`Python` &nbsp;&nbsp; `SQL` &nbsp;&nbsp; `R` &nbsp;&nbsp; `Excel` &nbsp;&nbsp; `Tableau` &nbsp;&nbsp; `Power BI` &nbsp;&nbsp; `SPSS`
+
+### libraries
+
+`pandas` &nbsp;&nbsp; `NumPy` &nbsp;&nbsp; `scikit-learn` &nbsp;&nbsp; `matplotlib` &nbsp;&nbsp; `ggplot2`
+
+### development
+
+`HTML` &nbsp;&nbsp; `CSS` &nbsp;&nbsp; `Git` &nbsp;&nbsp; `GitHub`
+
+### creative
+
+`Photoshop` &nbsp;&nbsp; `Illustrator` &nbsp;&nbsp; `Canva` &nbsp;&nbsp; `CapCut`
+
+<br>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## currently exploring
+
+♫ &nbsp; music & live entertainment
+
+◇ &nbsp; fashion & luxury retail
+
+◉ &nbsp; film photography
+
+⌁ &nbsp; consumer behavior
+
+◎ &nbsp; travel & culture
+
+</td>
+
+<td width="50%" valign="top">
+
+## let's connect
+
+↗ &nbsp; **[portfolio](YOUR-PORTFOLIO-LINK)**
+
+↗ &nbsp; **[linkedin](YOUR-LINKEDIN-LINK)**
+
+↗ &nbsp; **[photography](YOUR-PHOTOGRAPHY-LINK)**
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
 <div align="center">
 
-### let's connect
+### ✦
 
-portfolio · linkedin · photography
+*data × culture × creativity*
 
 </div>
