@@ -14,7 +14,7 @@
 
 ---
 
-## ✦ hola, i'm maddie
+## ✦ hi, i'm maddie
 
 I'm a **Data Science master's student** with a background in psychology, marketing, and analytics.
 
@@ -46,8 +46,8 @@ Retail Analytics
 
 <td width="25%" align="center">
 <b>♫ EXPLORING</b><br><br>
-Music + Live<br>
-Entertainment
+Live Music + <br>
+Travel
 </td>
 </tr>
 </table>
