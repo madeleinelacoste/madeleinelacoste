@@ -64,7 +64,7 @@ Analyzing **10,000+ luxury resale listings** to understand pricing, product char
 
 `Python` `SQL` `pandas` `scikit-learn` `Oracle`
 
-**→ [explore project](YOUR-LINK-HERE)**
+**→ [explore project](https://github.com/madeleinelacoste/luxury-resale-intelligence)**
 
 <br>
 
