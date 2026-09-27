@@ -136,7 +136,7 @@ Projects exploring **consumer behavior, merchandising, retail strategy, luxury r
 
 ↗ &nbsp; **[linkedin](YOUR-LINKEDIN-LINK)**
 
-↗ &nbsp; **[photography](YOUR-PHOTOGRAPHY-LINK)**
+↗ &nbsp; **[photography](https://madeleinelacoste.github.io/photography-portfolio/)**
 
 </td>
 </tr>
