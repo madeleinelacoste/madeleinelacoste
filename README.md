@@ -74,7 +74,7 @@ A custom photography portfolio designed and built from scratch featuring film an
 
 `HTML` `CSS` `GitHub`
 
-**→ [view portfolio](YOUR-LINK-HERE)**
+**→ [view portfolio](https://madeleinelacoste.github.io/photography-portfolio/)**
 
 <br>
 
