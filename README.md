@@ -68,6 +68,18 @@ Analyzing **10,000+ luxury resale listings** to understand pricing, product char
 
 <br>
 
+### 02 — Fashion Retail Intelligence
+
+End-to-end **retail merchandising analytics** project exploring sales trends, channel performance, product mix, markdown activity, and product performance.
+
+Built an analytical workflow using **SQL, DuckDB, and Python**, with a final interactive merchandising dashboard in **Tableau**.
+
+`SQL` `Python` `DuckDB` `Tableau` `Retail Analytics` `Forecasting`
+
+**→ [explore project](https://github.com/madeleinelacoste/fashion-retail-intelligence)**
+
+<br>
+
 ### 02 — Photography Portfolio
 
 A custom photography portfolio designed and built from scratch featuring film and travel photography.
